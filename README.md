@@ -56,11 +56,10 @@ Note: The repo was written by pytorch-1.0.1. ([PyTorch](http://pytorch.org/), [T
 
 The models are stored in 'snapshot' folder. Set $MODELFILE to any snapshotted model.
 
-* Generate Netdissection Result.
+* Generate Netdissection results.
 
 Specifically, you have to change the folder to "netdissect" and change the "MODEL_FILE" in settings.py.
-Then simply run ` python3 main.py`. When finished, set the $ND_RESULT to the path of 'tally.csv' in results folder.
-
+Then you have to download Broaden dataset by the given script and simply run ` python3 main.py`. When finished, set the $ND_RESULT to the path of 'tally.csv' in results folder.
 
 Please see instructions of [Netdissect-Lite](https://github.com/sunyiyou/NetDissect-Lite-dka) for more details.
 
