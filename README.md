@@ -1,7 +1,7 @@
 # Dynamic-K Activation
 
 ## Introduction
-This repository contains the demo code for the ICCV'19 paper "Dynamic-K Activation: Simple Dynamic Routing Like Behavior in Convolutional Neural Network".
+This repository contains the demo code for the ICCV'19 paper "Adaptive Activation Thresholding: Dynamic Routing Type Behavior for Interpretability in Convolutional Neural Networks".
 ![Example](example.png)
 
 ## Download
@@ -75,7 +75,7 @@ Please see instructions of [Netdissect-Lite](https://github.com/sunyiyou/NetDiss
 If you find the codes useful, please cite this paper
 ```
 @inproceedings{DKA2019,
-  title={Dynamic-K Activation: Simple Dynamic Routing Like Behavior in Convolutional Neural Network},
+  title={Adaptive Activation Thresholding: Dynamic Routing Type Behavior for Interpretability in Convolutional Neural Networks},
   author={Sun, Yiyou and Ravi, Sathya and Singh, Vikas},
   booktitle={International Conference on Computer Vision},
   year={2019}
