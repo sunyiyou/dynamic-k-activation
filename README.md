@@ -1,7 +1,7 @@
 # Dynamic-K Activation
 
 ## Introduction
-This repository contains the demo code for the ICCV'19 paper "Adaptive Activation Thresholding: Dynamic Routing Type Behavior for Interpretability in Convolutional Neural Networks".
+This repository contains the demo code for the ICCV'19 paper "[Adaptive Activation Thresholding: Dynamic Routing Type Behavior for Interpretability in Convolutional Neural Networks](https://sunyiyou.github.io/paper/dka.pdf)". 
 ![Example](example.png)
 
 ## Download
